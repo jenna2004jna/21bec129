@@ -1,0 +1,26 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Product 1",
+        "company": "Company A",
+        "category": "Category 1",
+        "price": 10.99,
+        "rating": 4.5,
+        "discount": 10,
+        "availability": true
+      },
+      {
+        "id": 2,
+        "name": "Product 2",
+        "company": "Company B",
+        "category": "Category 2",
+        "price": 20.99,
+        "rating": 4.0,
+        "discount": 15,
+        "availability": false
+      }
+      // Add more products as needed
+    ]
+  }
+  
